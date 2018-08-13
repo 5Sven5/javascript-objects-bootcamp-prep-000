@@ -1,1 +1,1 @@
-var playlist = {[TheScore]: "Legend"};
+var playlist = new Object({[TheScore]: "Legend"});
