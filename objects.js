@@ -1,5 +1,7 @@
 var playlist = new Object({TheScore: "Legend"});
 
-playlist.Nirvana = 'Lithium';
-
+ function updatePlaylist(playlist, artistName, songTitle){
+   playlist.artistName = songTitle
+ }
+ 
 console.log(playlist)
