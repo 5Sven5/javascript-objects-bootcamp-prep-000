@@ -1,1 +1,1 @@
-var playlist = {The Score : Legend}
+var playlist = {"The Score" : "Legend"};
