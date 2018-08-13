@@ -1,4 +1,4 @@
-var playlist = new Object({TheScore: "Legend"});
+//var playlist = new Object({TheScore: "Legend"});
 
  function updatePlaylist(playlist, artistName, songTitle){
    playlist.artistName = songTitle
